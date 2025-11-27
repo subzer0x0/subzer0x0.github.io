@@ -24,7 +24,3 @@ Quick notes:
 - To publish, commit and push to the `main` branch on GitHub; GitHub Pages will build and serve the site.
 
 Enjoy — let me know if you want a custom layout, hero image, or metadata added to this post.
-
-Thanks,  
-Arul
-
