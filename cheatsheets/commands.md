@@ -12,8 +12,8 @@
 | `git config user.name` | Shows the username for commits (repo level). |
 | `git config user.email` | Shows the email for commits (repo level). |
 | `git config --global --list` | Shows global Git settings like username, email, editor, etc. |
-| `git config --global user.name "Your New Name"` | Sets global Git username for all repos. |
-| `git config --global user.email "your_email@example.com"` | Sets global Git email for all repos. |
+| `git config --global user.name "subzer0"` | Sets global Git username for all repos. |
+| ` ` | Sets global Git email for all repos. |
 
 ---
 
@@ -30,3 +30,4 @@
 | Command | Explanation |
 |--------|-------------|
 | `bundle exec jekyll serve --livereload` | Runs your Jekyll site locally with auto-refresh on file changes. |
+    
