@@ -1,18 +1,24 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+
+
+- type: linkedin
+  icon: fab fa-linkedin
+  url: https://www.linkedin.com/in/arulvaiyapuri
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
-- type: instagram
-  icon: fab fa-instagram
-  url: https://www.instagram.com/arul.infosec
-
 - type: youtube
   icon: fab fa-youtube
   url: https://www.youtube.com/@Arul.Infosec
+
+- type: instagram
+  icon: fab fa-instagram
+  url: https://www.instagram.com/Arul.Infosec
+
+- type: github
+  icon: "fab fa-github"
 
 - type: email
   icon: "fas fa-envelope"
